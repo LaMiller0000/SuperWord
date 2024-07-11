@@ -10,6 +10,9 @@ namespace TypingTest
     internal class Timer
     {
         private static System.Timers.Timer aTimer;
+        private int timerLength;
+
+        public Timer(int timerLength) { this.timerLength = timerLength; }
 
         public static void SetTimer(int t)
         {

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "F:\\Projects\\SuperWord\\TypingTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FD48363-5EC2-4C19-AA91-806390CAF412}|TypingTest\\TypingTest.csproj|f:\\projects\\superword\\typingtest\\typingtest\\typingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD48363-5EC2-4C19-AA91-806390CAF412}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\typingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FD48363-5EC2-4C19-AA91-806390CAF412}|TypingTest\\TypingTest.csproj|f:\\projects\\superword\\typingtest\\typingtest\\ttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD48363-5EC2-4C19-AA91-806390CAF412}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\ttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD48363-5EC2-4C19-AA91-806390CAF412}|TypingTest\\TypingTest.csproj|f:\\projects\\superword\\typingtest\\typingtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD48363-5EC2-4C19-AA91-806390CAF412}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FD48363-5EC2-4C19-AA91-806390CAF412}|TypingTest\\TypingTest.csproj|f:\\projects\\superword\\typingtest\\typingtest\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FD48363-5EC2-4C19-AA91-806390CAF412}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FD48363-5EC2-4C19-AA91-806390CAF412}|TypingTest\\TypingTest.csproj|f:\\projects\\superword\\typingtest\\typingtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD48363-5EC2-4C19-AA91-806390CAF412}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FD48363-5EC2-4C19-AA91-806390CAF412}|TypingTest\\TypingTest.csproj|f:\\projects\\superword\\typingtest\\typingtest\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4FD48363-5EC2-4C19-AA91-806390CAF412}|TypingTest\\TypingTest.csproj|solutionrelative:typingtest\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "F:\\Projects\\SuperWord\\TypingTest\\TypingTest\\TextFile1.txt",
+              "RelativeDocumentMoniker": "TypingTest\\TextFile1.txt",
+              "ToolTip": "F:\\Projects\\SuperWord\\TypingTest\\TypingTest\\TextFile1.txt",
+              "RelativeToolTip": "TypingTest\\TextFile1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-11T06:08:59.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Timer.cs",
               "DocumentMoniker": "F:\\Projects\\SuperWord\\TypingTest\\TypingTest\\Timer.cs",
               "RelativeDocumentMoniker": "TypingTest\\Timer.cs",
               "ToolTip": "F:\\Projects\\SuperWord\\TypingTest\\TypingTest\\Timer.cs",
               "RelativeToolTip": "TypingTest\\Timer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T02:50:30.031Z",
               "EditorCaption": ""
@@ -40,25 +57,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TypingTest.cs",
-              "DocumentMoniker": "F:\\Projects\\SuperWord\\TypingTest\\TypingTest\\TypingTest.cs",
-              "RelativeDocumentMoniker": "TypingTest\\TypingTest.cs",
-              "ToolTip": "F:\\Projects\\SuperWord\\TypingTest\\TypingTest\\TypingTest.cs",
-              "RelativeToolTip": "TypingTest\\TypingTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Title": "tTest.cs",
+              "DocumentMoniker": "F:\\Projects\\SuperWord\\TypingTest\\TypingTest\\tTest.cs",
+              "RelativeDocumentMoniker": "TypingTest\\tTest.cs",
+              "ToolTip": "F:\\Projects\\SuperWord\\TypingTest\\TypingTest\\tTest.cs",
+              "RelativeToolTip": "TypingTest\\tTest.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvykAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T02:48:52.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Projects\\SuperWord\\TypingTest\\TypingTest\\Program.cs",
               "RelativeDocumentMoniker": "TypingTest\\Program.cs",
               "ToolTip": "F:\\Projects\\SuperWord\\TypingTest\\TypingTest\\Program.cs",
               "RelativeToolTip": "TypingTest\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T02:48:14.01Z",
               "EditorCaption": ""

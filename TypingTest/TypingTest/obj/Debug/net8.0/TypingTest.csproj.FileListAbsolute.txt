@@ -12,3 +12,4 @@ F:\Projects\SuperWord\TypingTest\TypingTest\obj\Debug\net8.0\refint\TypingTest.d
 F:\Projects\SuperWord\TypingTest\TypingTest\obj\Debug\net8.0\TypingTest.pdb
 F:\Projects\SuperWord\TypingTest\TypingTest\obj\Debug\net8.0\TypingTest.genruntimeconfig.cache
 F:\Projects\SuperWord\TypingTest\TypingTest\obj\Debug\net8.0\ref\TypingTest.dll
+F:\Projects\SuperWord\TypingTest\TypingTest\obj\Debug\net8.0\TypingTest.sourcelink.json
