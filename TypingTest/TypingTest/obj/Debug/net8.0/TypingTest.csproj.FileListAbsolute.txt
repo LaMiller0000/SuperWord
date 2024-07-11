@@ -1,0 +1,14 @@
+F:\Projects\SuperWord\TypingTest\TypingTest\bin\Debug\net8.0\TypingTest.exe
+F:\Projects\SuperWord\TypingTest\TypingTest\bin\Debug\net8.0\TypingTest.deps.json
+F:\Projects\SuperWord\TypingTest\TypingTest\bin\Debug\net8.0\TypingTest.runtimeconfig.json
+F:\Projects\SuperWord\TypingTest\TypingTest\bin\Debug\net8.0\TypingTest.dll
+F:\Projects\SuperWord\TypingTest\TypingTest\bin\Debug\net8.0\TypingTest.pdb
+F:\Projects\SuperWord\TypingTest\TypingTest\obj\Debug\net8.0\TypingTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\SuperWord\TypingTest\TypingTest\obj\Debug\net8.0\TypingTest.AssemblyInfoInputs.cache
+F:\Projects\SuperWord\TypingTest\TypingTest\obj\Debug\net8.0\TypingTest.AssemblyInfo.cs
+F:\Projects\SuperWord\TypingTest\TypingTest\obj\Debug\net8.0\TypingTest.csproj.CoreCompileInputs.cache
+F:\Projects\SuperWord\TypingTest\TypingTest\obj\Debug\net8.0\TypingTest.dll
+F:\Projects\SuperWord\TypingTest\TypingTest\obj\Debug\net8.0\refint\TypingTest.dll
+F:\Projects\SuperWord\TypingTest\TypingTest\obj\Debug\net8.0\TypingTest.pdb
+F:\Projects\SuperWord\TypingTest\TypingTest\obj\Debug\net8.0\TypingTest.genruntimeconfig.cache
+F:\Projects\SuperWord\TypingTest\TypingTest\obj\Debug\net8.0\ref\TypingTest.dll
