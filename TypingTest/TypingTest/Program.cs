@@ -6,5 +6,6 @@ internal class Program
     {
         tTest a1 = new tTest();
         a1.testWords();
+        a1.testAvg();
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TypingTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8484cc3b83ff4ae8e5485676dcba93bc8007edf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d88083be2301f8f20f5506441ba1d51fc22f68b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TypingTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TypingTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -18,14 +18,19 @@ namespace TypingTest
         private string text;
         StreamReader testReader;
         
-        public tTest() { text = "F:\\Projects\\SuperWord\\TypingTest\\TypingTest\\TextFile1.txt";  testReader = new StreamReader(text); }
+        public tTest() 
+        {
+            try { text = "F:\\Projects\\SuperWord\\TypingTest\\TypingTest\\TextFile1.txt"; }
+            catch (Exception e) { Console.WriteLine("There is no text file." + e.Message); } 
+        }
         
-        //public tTest(int time) { timer = new Timer(time); }
+        public tTest(string address) { text = address; }
 
-        public void testWords()
+        public void testWords() // conducts and gathers the information from the test
         {
             try
             {
+                testReader = new StreamReader(text);
                 string line = testReader.ReadLine();
                 timer = new Stopwatch();
                 timer.Start();
@@ -47,16 +52,15 @@ namespace TypingTest
                 }
                 totalTime = timer.ElapsedMilliseconds;
                 timer.Stop();
-                //Console.WriteLine(totalTime);
                 testReader.Close();
-                testAvg();
             }
             catch (Exception e)
             {
                 Console.WriteLine("Exception: " + e.Message);
             }
         }
-        public float testAvg()
+
+        public double testAvg() //calculates and returns the words per minute
         {
             int diff = 0;
             int total = 0;
@@ -101,26 +105,18 @@ namespace TypingTest
                 }
                 double percent = (Math.Abs((((double)diff / (double)total) - (double)1)) * 100);
                 double time = (double)totalTime / (double)60000;
-                if ((total - diff) == 0)
-                {
-                    //Console.WriteLine("fish");
-                    return (0);
-                }
-                else
-                {
-                    Console.WriteLine("Elapsed Time : " + time + "Minutes");
-                    Console.WriteLine("Percent Right : " + percent + "%");
-                    Console.WriteLine(((total * (percent / 100)) / 5.1) / time);
-                }
+                double wpm = ((total * (percent / 100)) / 5.1) / time;
+                Console.WriteLine("Elapsed Time : " + time + "Minutes");
+                Console.WriteLine("Percent Right : " + percent + "%");
+                Console.WriteLine("Words Per Minute : " + ((total * (percent / 100)) / 5.1) / time);
                 testReader.Close();
-                Console.ReadLine();
+                return (wpm);
             }
             catch (Exception e)
             {
                 Console.WriteLine("Exception: " + e.Message);
             }
-            
-            return ((total - diff) / 100);
+            return 0;
         }
     }
 }
