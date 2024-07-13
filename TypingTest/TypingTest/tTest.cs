@@ -68,9 +68,7 @@ namespace TypingTest
             {
                 testReader = new StreamReader(text);
                 string line = testReader.ReadLine();
-
                 int d = 0;
-
                 while (line != null)
                 {
                     int i = 0;
