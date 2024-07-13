@@ -26,7 +26,6 @@ namespace TypingTest
         {
             try
             {
-
                 string line = testReader.ReadLine();
                 timer = new Stopwatch();
                 timer.Start();
