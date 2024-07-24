@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "F:\\Projects\\SuperWord\\TextEditor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7965F1A0-CB59-49B6-9C9E-1C28DC74C18A}|TextEditor\\TextEditor.csproj|f:\\projects\\superword\\texteditor\\texteditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7965F1A0-CB59-49B6-9C9E-1C28DC74C18A}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7965F1A0-CB59-49B6-9C9E-1C28DC74C18A}|TextEditor\\TextEditor.csproj|f:\\projects\\superword\\texteditor\\texteditor\\te.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7965F1A0-CB59-49B6-9C9E-1C28DC74C18A}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\te.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7965F1A0-CB59-49B6-9C9E-1C28DC74C18A}|TextEditor\\TextEditor.csproj|f:\\projects\\superword\\texteditor\\texteditor\\te.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7965F1A0-CB59-49B6-9C9E-1C28DC74C18A}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\te.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7965F1A0-CB59-49B6-9C9E-1C28DC74C18A}|TextEditor\\TextEditor.csproj|f:\\projects\\superword\\texteditor\\texteditor\\te.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7965F1A0-CB59-49B6-9C9E-1C28DC74C18A}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\te.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7965F1A0-CB59-49B6-9C9E-1C28DC74C18A}|TextEditor\\TextEditor.csproj|f:\\projects\\superword\\texteditor\\texteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7965F1A0-CB59-49B6-9C9E-1C28DC74C18A}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "F:\\Projects\\SuperWord\\TextEditor\\TextEditor\\Form1.cs",
-              "RelativeDocumentMoniker": "TextEditor\\Form1.cs",
-              "ToolTip": "F:\\Projects\\SuperWord\\TextEditor\\TextEditor\\Form1.cs [Design]",
-              "RelativeToolTip": "TextEditor\\Form1.cs [Design]",
+              "Title": "TE.cs",
+              "DocumentMoniker": "F:\\Projects\\SuperWord\\TextEditor\\TextEditor\\TE.cs",
+              "RelativeDocumentMoniker": "TextEditor\\TE.cs",
+              "ToolTip": "F:\\Projects\\SuperWord\\TextEditor\\TextEditor\\TE.cs",
+              "RelativeToolTip": "TextEditor\\TE.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwDsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T05:27:11.037Z",
+              "WhenOpened": "2024-07-24T00:54:10.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TE.Designer.cs",
+              "DocumentMoniker": "F:\\Projects\\SuperWord\\TextEditor\\TextEditor\\TE.Designer.cs",
+              "RelativeDocumentMoniker": "TextEditor\\TE.Designer.cs",
+              "ToolTip": "F:\\Projects\\SuperWord\\TextEditor\\TextEditor\\TE.Designer.cs",
+              "RelativeToolTip": "TextEditor\\TE.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwC4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T00:52:04.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TE.cs [Design]",
+              "DocumentMoniker": "F:\\Projects\\SuperWord\\TextEditor\\TextEditor\\TE.cs",
+              "RelativeDocumentMoniker": "TextEditor\\TE.cs",
+              "ToolTip": "F:\\Projects\\SuperWord\\TextEditor\\TextEditor\\TE.cs [Design]",
+              "RelativeToolTip": "TextEditor\\TE.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T00:51:49.594Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projects\\SuperWord\\TextEditor\\TextEditor\\Program.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Program.cs",
+              "ToolTip": "F:\\Projects\\SuperWord\\TextEditor\\TextEditor\\Program.cs",
+              "RelativeToolTip": "TextEditor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T00:44:48.071Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,17 @@
+F:\Projects\SuperWord\TextEditor\TextEditor\bin\Debug\net8.0-windows\TextEditor.exe
+F:\Projects\SuperWord\TextEditor\TextEditor\bin\Debug\net8.0-windows\TextEditor.deps.json
+F:\Projects\SuperWord\TextEditor\TextEditor\bin\Debug\net8.0-windows\TextEditor.runtimeconfig.json
+F:\Projects\SuperWord\TextEditor\TextEditor\bin\Debug\net8.0-windows\TextEditor.dll
+F:\Projects\SuperWord\TextEditor\TextEditor\bin\Debug\net8.0-windows\TextEditor.pdb
+F:\Projects\SuperWord\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.csproj.GenerateResource.cache
+F:\Projects\SuperWord\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\SuperWord\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.AssemblyInfoInputs.cache
+F:\Projects\SuperWord\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.AssemblyInfo.cs
+F:\Projects\SuperWord\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.csproj.CoreCompileInputs.cache
+F:\Projects\SuperWord\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.sourcelink.json
+F:\Projects\SuperWord\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.dll
+F:\Projects\SuperWord\TextEditor\TextEditor\obj\Debug\net8.0-windows\refint\TextEditor.dll
+F:\Projects\SuperWord\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.pdb
+F:\Projects\SuperWord\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.genruntimeconfig.cache
+F:\Projects\SuperWord\TextEditor\TextEditor\obj\Debug\net8.0-windows\ref\TextEditor.dll
+F:\Projects\SuperWord\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.TE.resources
